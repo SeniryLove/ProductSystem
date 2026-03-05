@@ -1,19 +1,3 @@
-# ProductSystem 專案說明文件
-
-## 📌 專案架構
-
-本專案為商品管理系統，採用 **前後端與資料庫三層式分離架構**，包含：
-
-- Product_Web_Server（前端 Vue 3）
-- Product_DB（資料庫設計與 Stored Procedure）
-- Product_Backend_Server（Spring Boot 後端服務）
-
-系統資料流：
-
-前端 → REST API → 後端服務 → Stored Procedure → Database
-
----
-
 ## 📂 Product_DB
 
 ### 專案用途
